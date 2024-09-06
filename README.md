@@ -1,5 +1,5 @@
 # Name: Augusto José Rizzi
-Created using only React and CSS, this repository is for my college project. The college subject is "Front-end Systems Development".
+Created using React, React Router DOM, Axios and Material UI. This repository is for my college project. The college subject is "Front-end Systems Development".
 
 :globe_with_meridians:
 
@@ -46,7 +46,15 @@ cd ./app/
 npm start
 ```
 
-### Com o projeto rodando...
+### IMPORTANTE:
+
+Você deve fazer uso da API hotwheels-api que se encontra em https://github.com/adsPucrsOnline/DesenvolvimentoFrontend/ (branch main). 
+Para executar a API:
+ - Clone o repositório localmente
+ - Utilizando o mesmo terminal, entre na pasta da API: cd ./DesenvolvimentoFrontend/hotwheels-api/
+ - Rode esse projeto utilizando `npm start`;
+
+### Com os dois projetos rodando...
 Você vai poder navegar entre os tópicos: 
   - **Home**;
   - **Sobre**;

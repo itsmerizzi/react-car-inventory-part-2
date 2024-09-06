@@ -1,0 +1,14 @@
+.App-navbar {
+  margin: 20px;
+  display: flex;
+  align-items: center;
+}
+
+.navbar-item {
+  margin-right: 30px;
+  cursor: pointer;
+}
+
+.navbar-item:hover {
+  color: rgb(0, 183, 255);
+}

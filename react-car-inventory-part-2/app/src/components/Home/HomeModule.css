@@ -1,0 +1,14 @@
+.paper-style {
+  padding: 20px;
+  margin-top: 20px;
+  border: 2px solid lightblue;
+  border-radius: 8px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+}
+
+.image-style {
+  width: 100px;
+  height: auto;
+  margin: 16px 0;
+}
